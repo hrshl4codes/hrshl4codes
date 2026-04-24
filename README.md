@@ -19,9 +19,9 @@ I care about clean architecture, infrastructure that doesn't break at 2am, and w
 
 ### What I'm working on right now
 
-- **[FlowSocial](https://github.com/hrshl4codes/FlowSocial)** — a recommender system using clustered federated learning and cross-modal attention fusion
-- **[DocuMindHTech](https://github.com/hrshl4codes/DocuMindHTech)** — a cloud-hosted RAG system with intelligent chunking, reranking, and inline citations
-- Building out mail routing and archival infrastructure on Zoho One — DNS, admin-level routing rules, eDiscovery integration
+- **[FlowSocial](https://github.com/hrshl4codes/FlowSocial)** : a recommender system using clustered federated learning and cross-modal attention fusion
+- **[DocuMindHTech](https://github.com/hrshl4codes/DocuMindHTech)** : a cloud-hosted RAG system with intelligent chunking, reranking, and inline citations
+ Building out mail routing and archival infrastructure on Zoho One : DNS, admin-level routing rules, eDiscovery integration
 
 <br>
 
