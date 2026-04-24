@@ -1,7 +1,7 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <a href="https://github.com/hrshl4codes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Harshal;Backend+%7C+DevOps+%7C+Full+Stack;I+build+things+that+work+at+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Harshal;Backend+%7C+DevOps+%7C+Full+Stack;Building+things+that+work+at+scale" alt="Typing SVG" />
   </a>
 </p>
 
@@ -71,36 +71,7 @@ I care about clean architecture, infrastructure that doesn't break at 2am, and w
 
 <br>
 
-### Selected Projects
 
-<p align="center">
-  <a href="https://github.com/hrshl4codes/DocuMindHTech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrshl4codes&repo=DocuMindHTech&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="DocuMindHTech" />
-  </a>
-  <a href="https://github.com/hrshl4codes/XChess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrshl4codes&repo=XChess&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="XChess" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hrshl4codes/WarehouseBalancer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrshl4codes&repo=WarehouseBalancer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="WarehouseBalancer" />
-  </a>
-  <a href="https://github.com/hrshl4codes/RealInsight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrshl4codes&repo=RealInsight&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="RealInsight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hrshl4codes/FlowSocial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrshl4codes&repo=FlowSocial&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="FlowSocial" />
-  </a>
-  <a href="https://github.com/hrshl4codes/Trader-Behaviour-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrshl4codes&repo=Trader-Behaviour-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Trader Behaviour Analysis" />
-  </a>
-</p>
-
-<br>
 
 ### Connect
 
