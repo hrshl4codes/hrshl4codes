@@ -5,18 +5,17 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrshl4codes&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+<br>
 
 I build backend systems, cloud infrastructure, and full-stack applications. Currently finishing my B.Tech in Computer Science while working on real enterprise projects — email governance, ISMS compliance, and cloud platform administration at scale.
 
 I care about clean architecture, infrastructure that doesn't break at 2am, and writing code that the next person can actually read.
 
----
+<br>
 
 ### What I'm working on right now
 
@@ -24,7 +23,7 @@ I care about clean architecture, infrastructure that doesn't break at 2am, and w
 - Built **[DocuMindHTech](https://github.com/hrshl4codes/DocuMindHTech)** — a cloud-hosted RAG system with intelligent chunking, reranking, and inline citations
 - Shipped **[XChess](https://github.com/hrshl4codes/XChess)** — full-stack real-time chess with WebSocket multiplayer
 
----
+<br>
 
 ### Tech Stack
 
@@ -57,7 +56,7 @@ I care about clean architecture, infrastructure that doesn't break at 2am, and w
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
----
+<br>
 
 ### GitHub Stats
 
@@ -70,7 +69,7 @@ I care about clean architecture, infrastructure that doesn't break at 2am, and w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshl4codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="42%" alt="Top Languages" />
 </p>
 
----
+<br>
 
 ### Selected Projects
 
@@ -101,7 +100,7 @@ I care about clean architecture, infrastructure that doesn't break at 2am, and w
   </a>
 </p>
 
----
+<br>
 
 ### Connect
 
@@ -111,8 +110,8 @@ I care about clean architecture, infrastructure that doesn't break at 2am, and w
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <i>I don't mass-apply. I build things, ship them, and let the work speak.</i>
+  <i>If it works, ship it. If it breaks, fix it. Keep building.</i>
 </p>
