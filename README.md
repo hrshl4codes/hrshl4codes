@@ -11,7 +11,7 @@
 
 <br>
 
-I build backend systems, cloud infrastructure, and full-stack applications. Currently finishing my B.Tech in Computer Science while building things like mail routing architectures, RAG pipelines, and federated learning systems.
+I build backend systems, cloud infrastructure, and full-stack applications. Currently finishing my B.Tech in Computer and Communications while building things like mail routing architectures, RAG pipelines, and federated learning systems.
 
 I care about clean architecture, infrastructure that doesn't break at 2am, and writing code that the next person can actually read.
 
@@ -20,8 +20,8 @@ I care about clean architecture, infrastructure that doesn't break at 2am, and w
 ### What I'm working on right now
 
 - **[FlowSocial](https://github.com/hrshl4codes/FlowSocial)** : a recommender system using clustered federated learning and cross-modal attention fusion
-- **[DocuMindHTech](https://github.com/hrshl4codes/DocuMindHTech)** : a cloud-hosted RAG system with intelligent chunking, reranking, and inline citations
- Building out mail routing and archival infrastructure on Zoho One : DNS, admin-level routing rules, eDiscovery integration
+- **[DocuMindHTech](https://github.com/hrshl4codes/DocuMindHTech)** : a cloud-hosted RAG system with intelligent chunking, reranking, and inline citations.
+- **Building out mail routing and archival infrastructure on Zoho One** : DNS, admin-level routing rules, eDiscovery integration
 
 <br>
 
